@@ -10,6 +10,8 @@ namespace DiceBet
     {
         static void Main(string[] args)
         {
+            var Play = new GameClass();
+            Play.OtherGame();
         }
     }
 }
